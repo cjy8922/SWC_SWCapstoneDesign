@@ -14,8 +14,6 @@ https://github.com/computational-imaging/neural-holography
 <img src="https://img.shields.io/badge/opencv-4.5.5.64-yellowgreen"/> 
 <img src="https://img.shields.io/badge/pytorch-1.11.0-red"/> 
 <img src="https://img.shields.io/badge/torchvision-0.12.0-red"/> 
-<img src="https://img.shields.io/badge/glob-0.7-blue"/>
-<img src="https://img.shields.io/badge/tqdm-4.62.3-blue"/>
 ....
 
 ------
