@@ -1,7 +1,15 @@
 # Deep Learning-based Phase-only Hologram Generation
-This project is based on "Neural Holography with Camera-in-the-loop Training"
+[1] GERCHBERG, Ralph W. “A practical algorithm for the determination of phase from image and diffraction plane pictures.” Optik, 1972, 35: 237-246.
 
-https://github.com/computational-imaging/neural-holography
+[2] HSUEH, Chung-Kai; SAWCHUK, Alexander A. “Computer-generated double-phase holograms.” Applied optics, 1978, 17.24: 3874-3883.
+
+[3] LEE, Juhyun et al. “Deep neural network for multi-depth hologram generation and its training strategy.” Optics Express, 2020, 28.18: 27137-27154.
+
+[4] MAIMONE, Andrew; GEORGIOU, Andreas; KOLLIN, Joel S. “Holographic near-eye displays for virtual and augmented reality.” ACM Transactions on Graphics (Tog), 2017, 36.4: 1-16.
+
+[5] AGUSTSSON, Eirikur; TIMOFTE, Radu. “Ntire 2017 challenge on single image super-resolution: Dataset and study.” In: Proceddings of the IEEE conference on computer vision and pattern recognition workshops. 2017. p. 126-135.
+
+
 
 ## Overview
 디지털 홀로그래피는 3차원 물체에서 나온 빛의 위상과 진폭 정보로 시각적인 정보를 기록하고 복원하는 기술이다. 이 홀로그램을 디스플레이 하기 위해선 디지털 공간광변조기(SLM; Spatial Light Modulator)가 필요하지만, 현재 기술적 한계로 빛의 진폭 혹은 위상만 디스플레이 할 수 있다. 이때 진폭 정보를 복원하는 진폭 공간광변조기보다 좀 더 빛을 효율적으로 사용하여 물체를 표현할 수 있는 위상 공간광변조기가 주로 사용되고 있으며, 이에 맞추어 빛의 위상만 기록하여 물체를 더 잘 표현할 수 있도록 위상 홀로그램(PoH; Phase-only Hologram)을 잘 만들기 위한 연구가 지속되고 있다. 
