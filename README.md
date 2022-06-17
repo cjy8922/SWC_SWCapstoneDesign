@@ -21,7 +21,8 @@
 
 ------
 ## Experiment
-![images_Experiment](https://user-images.githubusercontent.com/34412522/173362062-58c897a5-2a97-4b88-b5b8-7be416d7c58c.png)
+![image](https://user-images.githubusercontent.com/34412522/174344369-a81a73d7-812e-4e07-b845-45bff754ce0e.png)
+
 
 1. Generate Phase-only Hologram with GS-algorithm
 2. Generate Phase-only Hologram with Deep Neural Network training with our strategy
